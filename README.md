@@ -6,7 +6,7 @@
 <br>
 <br>
 <hr>
-<h2 align="center">Times i fucked ur mom:</h2>
+<h2 align="center">me when:</h2>
 <p align="center">
  	<img src="https://profile-counter.glitch.me/BongoCaat/count.svg"/>
 </p>
