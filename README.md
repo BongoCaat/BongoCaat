@@ -10,10 +10,12 @@
 <p align="center">
  	<img src="https://profile-counter.glitch.me/BongoCaat/count.svg"/>
 </p>
+<!--
 <hr>
 <h2 align="center">Profile Views:</h2>
 <p align="center"><img src="https://gpvc.arturio.dev/BongoCaat" alt="BongoCaat"/></p>
 <hr>
+-->
 <br>
 </hr>
 <p align="center">
