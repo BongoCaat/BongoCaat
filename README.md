@@ -6,8 +6,8 @@
 <br>
 <br>
 <hr>
+<h2 align="center">me when:</h2>
 <p align="center">
-    <h2 align="center">me when:</h2>
  	<img src="https://profile-counter.glitch.me/BongoCaat/count.svg"/>
 </p>
 <!--
